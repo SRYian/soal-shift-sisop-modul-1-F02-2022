@@ -1,0 +1,2 @@
+Rata-rata serangan adalah sebanyak 81.0833 requests per jam
+
