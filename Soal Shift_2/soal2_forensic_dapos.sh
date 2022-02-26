@@ -4,7 +4,7 @@
 
 # commented code to test every single line is working
 # awk -F[:\] '{ print $3}' ./log_website_daffainfo.log
-
+{total += $4; count++ } END {print total/count}
 # B.
 # Flow: Separate each line with : -> count every line and exclude 1st one -> calculate average -> output to file
 awk -F[:\ ] '{ count++}END{print "Rata-rata serangan adalah sebanyak " (count-1)/12 " requests per jam"}' ./log_website_daffainfo.log >> forensic_log_website_daffainfo_log/ratarata.txt
