@@ -1,9 +1,9 @@
 # soal-shift-sisop-modul-1-F02-2022
 
 # Group
-Billy Brianto
-Amsal Herbert
-Aqil Ramadhan Hadiono
+1. Billy Brianto
+2. Amsal Herbert
+3. Aqil Ramadhan Hadiono
 
 ## Number 1
 This section has 2 main files:

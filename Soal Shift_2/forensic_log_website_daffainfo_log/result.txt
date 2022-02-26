@@ -1,8 +1,0 @@
-IP yang paling banyak mengakses server adalah: "216.93.144.47" sebanyak 539  requests
-Ada 58 requests yang menggunakan curl sebagai user-agent
-"109.237.103.38"
-"128.14.133.58"
-"145.239.154.84"
-"194.126.224.140"
-"2.228.115.154"
-"88.80.186.144"

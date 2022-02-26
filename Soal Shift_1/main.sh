@@ -1,6 +1,18 @@
 #!/bin/bash
 fileuser=users/user.txt
 filelog=log.txt
+
+# check if file, exist
+if [ -f "$fileuser" && "$filelog" ]
+then 
+  echo ada
+else
+    mkdir users
+    touch $fileuser
+    touch $filelog
+fi
+
+
 dt=$(date '+%d/%m/%Y %H:%M:%S');
 
 # Prompt a login
