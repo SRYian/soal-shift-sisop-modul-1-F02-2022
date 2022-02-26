@@ -20,6 +20,8 @@ This section has 2 Main files:
 - minutes_log.sh
 
 ## Problems(lang: ID)
-Terdapat beberapa maasalah pada nomor 3
+Masalah kecil nomor 2
+- Kurang mampu menghitung IP secara otomatis
+Terdapat beberapa masalah pada nomor 3
 - Format output cari command free -m dan du sh sulit dipisahkan dengan awk
 - Command dengan cron sulit dijalankan secara sekuensial(date tidak bisa terganti dalam cron), output menjadi 1
