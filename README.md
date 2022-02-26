@@ -1,7 +1,7 @@
 # soal-shift-sisop-modul-1-F02-2022
 
 # Group
-1. Billy Brianto
+1. **Billy Brianto**
 2. Amsal Herbert
 3. Aqil Ramadhan Hadiono
 
@@ -18,3 +18,8 @@ This section has 1 main files:
 This section has 2 Main files:
 - aggregate_minutes_to_hourly_log.sh
 - minutes_log.sh
+
+## Problems(lang: ID)
+Terdapat beberapa maasalah pada nomor 3
+- Format output cari command free -m dan du sh sulit dipisahkan dengan awk
+- Command dengan cron sulit dijalankan secara sekuensial(date tidak bisa terganti dalam cron), output menjadi 1
